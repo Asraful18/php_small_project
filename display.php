@@ -76,6 +76,6 @@
             <?php endforeach;?>
             </ul><hr>
             <?php endfor;
-            }?>
+     }?>
   
 </div>
